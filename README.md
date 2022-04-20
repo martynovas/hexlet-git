@@ -1,3 +1,1 @@
-Hello, Hexlet
-version 2
-version 3
+Hello, Hexlet! How are you?
